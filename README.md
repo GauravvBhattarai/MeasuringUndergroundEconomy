@@ -1,2 +1,2 @@
 # MeasuringUndergroundEconomy
-UNDERGROUND ECONOMY OF NEPAL: AN ESTIMATION USING THE CURRENCY DEMAND APPROACH AND THE MIMIC MODEL
+Underground Economy of Nepal: An estimation using the Currency Demand Approach and the MIMIC model
