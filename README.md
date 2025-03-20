@@ -34,7 +34,9 @@ This research aims to achieve the following objectives:
 - Government expenditure patterns
 - Financial system characteristics
 
-3. International Financial Linkages: To investigate the relationship between the underground economy and Nepalese deposits in Swiss banks, examining whether increases in underground economic activity correlate with increased offshore banking activity
+3. International Financial Linkages: To investigate the relationship between the underground economy and Nepalese deposits in Swiss banks, examining whether increases in underground economic activity correlate with increased offshore banking activity. Cumulative deposits of Nepali held by Swiss Banks according to the national newspaper:
+
+   ![image](https://github.com/user-attachments/assets/6fb674c5-f67a-47a8-a7f9-67c0007a68c9)
 
 4. Policy Framework Development: To provide evidence-based policy recommendations for:
 
@@ -139,6 +141,12 @@ Key variables collected include:
 
 ### a. CDA model Specification: 
 
+According to the conceptiual framework:
+
+![image](https://github.com/user-attachments/assets/18aefdf9-ff09-457d-a07a-12a5a8445f63)
+
+The model can be specified as: 
+
 CC = a0 + a1 ln T + a2 ln (WS/NI) + a3 ln R + a4 ln Y + e
 In the equation, the dependent variable is the ratio of currency holdings (C) to money (specified as M2). Real per capita income (Y), the rate of interest paid on time deposits (R), the wage-salary ratio in national income (WS/NI), and an income tax variable are the independent variables (T). 
 
@@ -188,6 +196,12 @@ For cointegration analysis ΔCCt must be modeled with the error correction form 
 where, πcc and πcb are long run multipliers, β0 is the drift term and wt is a vector of exogenous components. The bounds testing procedure tests for the absence of any level relationship between ct and bt through exclusion of the lagged levels variables ct-1 and bt-1 in the equation.
 
 ### b. MIMIC Model Specification: 
+
+Accoding to the conceptual framework: 
+
+![image](https://github.com/user-attachments/assets/f820a9a5-9d97-4164-92b4-d7d7818204f9)
+
+The model can be specified in 2 parts: 
 
 Part 1: Latent variable is linearly determined by a set of exogenous causal variables
 
@@ -276,6 +290,14 @@ Results of Augmented Dickey-Fuller (ADF) tests revealed:
 
 ### c. Underground Economy Trends (CDA Approach)
 
+The comparison between legal money (LM) and illegal money (IM) showed that LM consistently exceeded IM throughout most of the period, though the gap narrowed during periods of economic and political instability.
+
+![image](https://github.com/user-attachments/assets/d78eaec3-e391-4de1-8f60-aafb406a649e)
+
+According to the CDA approach, the percentage of UE in the economy can be illustrated as such: 
+
+![image](https://github.com/user-attachments/assets/a2cf2c7e-4417-4bd1-a427-7536133df0fb)
+
 Analysis of the estimated underground economy in Nepal revealed several patterns:
 
 - Early 1990s: UE was relatively stable at approximately 25-30% of GNP
@@ -284,8 +306,6 @@ Analysis of the estimated underground economy in Nepal revealed several patterns
 - 2000s to 2014/15: Steady rising trend reaching approximately 60% of GNP
 - 2015/16: Significant spike to over 70% of GNP following the 2015 earthquake and subsequent Indian blockade
 - 2016/17 to 2018/19: Slight moderation but remaining at elevated levels above 60% of GNP
-
-The comparison between legal money (LM) and illegal money (IM) showed that LM consistently exceeded IM throughout most of the period, though the gap narrowed during periods of economic and political instability.
 
 ## 4. MIMIC Model Results
 
@@ -309,6 +329,8 @@ These results indicate that tax burden, self-employment, and unemployment positi
 
 Both models yielded similar trends in the underground economy, though MIMIC estimates were generally higher than CDA estimates:
 
+![image](https://github.com/user-attachments/assets/63a9a9a1-4c6f-4074-a5ca-922e02ef96bb)
+
 - CDA average (1991-2019): 47.2% of GNP
 - MIMIC average (1991-2019): 52.6% of GNP
 
@@ -331,6 +353,8 @@ Regression results:
 - R-squared: 0.62
 - Adjusted R-squared: 0.59
 - Coefficient on Swiss deposits: 0.74 (positive and significant at 5% level)
+
+![image](https://github.com/user-attachments/assets/2e953800-262f-4556-8c2d-a2ac97925c38)
 
 The model indicates that 59% of the variations in UE can be explained by Nepalese deposits in Swiss bank accounts. The significant positive relationship suggests that as underground economic activity increases, so does the parking of illicit money in Swiss accounts, likely for tax evasion purposes or to hide illicit income.
 The trend analysis shows a particularly sharp increase in Swiss deposits corresponding with periods of higher UE growth, especially following the 2015 earthquake and economic blockade.
