@@ -470,3 +470,15 @@ Nepal's underground economy appears to have expanded in response to a series of 
 It's crucial to understand that reducing the underground economy doesn't mean targeting vulnerable individuals like street vendors. Rather, it necessitates integrating informal economic activities into the formal system. Authorities should implement campaigns to raise awareness about the benefits of adhering to legal guidelines for the broader public good. Conversely, the underground economy can foster market development, mobilize financial resources, stimulate entrepreneurship, and drive necessary reforms in legal, social, and economic institutions. Allowing for a voluntary transition between formal and informal sectors could enhance economic growth, potentially leading to a positive correlation between the growth of the informal sector and overall economic expansion.
 
 Furthermore, the government must re-evaluate its tax policies, which can negatively impact social and economic conditions. Commercial banks should also reconsider their lending practices to create an investment-friendly environment that encourages savings deposits.
+
+# K. References
+
+- Raut, N., Chalise, N., & Thapa, P. (2016). Measurement of the Underground Economy in Nepal: A Currency Demand Approach. Economic Journal of Development Issues, 17(1-2), 105-127.
+- Almenar, V., Sánchez, J., & Sapena, J. (2019). Measuring the shadow economy and its drivers: the case of peripheral EMU countries. Economic Research-Ekonomska Istraživanja, 33(1), 2904-2918. https://doi.org/10.1080/1331677x.2019.1706601
+- Medina, L., & Schneider, F. (2018). Shadow Economies Around the World: What Did We Learn Over the Last 20 Years?. IMF Working Papers, 18(17), 1. https://doi.org/10.5089/9781484338636.001
+- GDP per capita (current US$) - Nepal | Data. Data.worldbank.org. (2019). Retrieved 23 June 2021, from https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=NP.
+- GDP growth (annual %) - Nepal | Data. Data.worldbank.org. (2019). Retrieved 23 June 2021, from https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=NP.
+- International Labour Office. (2019). Women and men in the informal economy.
+- Ghimire, S. (2021). Nepal’s deposits in Swiss banks fourth largest among South Asian nations. Newbusinessage.com. Retrieved 25 June 2021, from https://www.newbusinessage.com/Articles/view/13557.
+- Government of Nepal. (2018). National Economic Census. Central Bureau of Statistics.
+- Adhikari, D. (2018). Informal Economy and Poverty in Urban Nepal. Economic Journal Of Nepal, 41(3-4), 12-24. https://doi.org/10.3126/ejon.v41i3-4.35927
